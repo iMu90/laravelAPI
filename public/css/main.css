@@ -1,0 +1,18 @@
+.myFooter{
+    background-color: rgba(157,157,157, 0.6);
+}
+
+.myFooter p {
+    text-align: center;
+}
+
+.myFooter header {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.myFooter hr {
+    opacity: 0.6;
+    position: center;
+    width: 60%;
+}
